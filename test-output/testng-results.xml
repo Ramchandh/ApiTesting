@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2450" started-at="2019-09-22T20:56:25Z" finished-at="2019-09-22T20:56:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2450" started-at="2019-09-22T20:56:25Z" finished-at="2019-09-22T20:56:28Z">
+      <class name="org.com.rest.RestAuto.PostApiTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:org.com.rest.RestAuto.PostApiTest@39aeed2f]" name="setUp" is-config="true" duration-ms="18" started-at="2019-09-22T20:56:25Z" finished-at="2019-09-22T20:56:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="postApiTest()[pri:0, instance:org.com.rest.RestAuto.PostApiTest@39aeed2f]" name="postApiTest" duration-ms="2419" started-at="2019-09-22T20:56:25Z" finished-at="2019-09-22T20:56:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postApiTest -->
+      </class> <!-- org.com.rest.RestAuto.PostApiTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
